@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.video.docsquiffy"
+	name="Doc Squiffy"
+	version="1.0.1"
+	provider-name="docsquiffy">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_gb">Doc Squiify Youtube video Add-on</summary>
+    <description lang="en_gb">KODI XBMC IPTV ADDONS and GUIDES.</description>
+	<disclaimer lang="en_gb">All Content Posted on this channel Is for educational purposes: Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment.</disclaimer>
+    <platform>all</platform>
+    <source>http://Docsquiffy.com/repo</source>
+    <website>http://Docsquiffy.com</website>
+	<language>en gb</language>
+    <license>GPL v2.0</license>
+	<forum></forum>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.wolfcreations" name="wolfcreations" version="0.0.1" provider-name="wolfcreations">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.module.nanscrapers" version="0.5.5" />
+        <import addon="script.module.python.koding.aio" version="0.0.1"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">wolfcreations test addon</summary>
+		<description lang="en">wolfcreations test addon</description>
+		<platform>all</platform>
+		<forum>http://www.noobsandnerds.com/support</forum>
+		<website>www.noobsandnerds.com</website>
+		<news></news>
+		<genre>other,canadian,uk,usa</genre>
+		<video_guide></video_guide>
+		<video_preview></video_preview>
+	</extension>
+</addon>
+
+<addon id="repository.wolfcreations" name="wolfcreations" version="0.0.1" provider-name="wadeknelsen">
+	<extension point="xbmc.addon.repository" name="wolfcreations">
+		<dir>
+			<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+			<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/wadeknelsen/repository.wolfcreations/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/wadeknelsen/repository.wolfcreations/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/wadeknelsen/repository.wolfcreations/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">personal addons</summary>
+		<description lang="en">wolfcreations repo</description>
+		<genre></genre>
+	</extension>
+</addon>
+</addons>

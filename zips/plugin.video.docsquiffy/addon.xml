@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.docsquiffy"
+	name="Doc Squiffy"
+	version="1.0.1"
+	provider-name="docsquiffy">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_gb">Doc Squiify Youtube video Add-on</summary>
+    <description lang="en_gb">KODI XBMC IPTV ADDONS and GUIDES.</description>
+	<disclaimer lang="en_gb">All Content Posted on this channel Is for educational purposes: Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment.</disclaimer>
+    <platform>all</platform>
+    <source>http://Docsquiffy.com/repo</source>
+    <website>http://Docsquiffy.com</website>
+	<language>en gb</language>
+    <license>GPL v2.0</license>
+	<forum></forum>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>

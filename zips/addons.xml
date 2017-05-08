@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.docsquiffy" name="Doc Squiffy" version="1.0.3" provider-name="docsquiffy">
+<addon id="plugin.program.kodisupport" name="Kodisupport Wizard" version="0.0.1a" provider-name="wolfcreations">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Kodisupport Wizard</summary>
+    <description lang="en">Kodisupport Wizard allows you to get access to the latest Wolfcreations Custom Builds, Appks and addons.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.docsquiffy" name="Doc Squiffy" version="1.0.4" provider-name="Wolfcreations">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
@@ -26,8 +41,8 @@
 
 <addon id="plugin.video.vldl"
 	name="vldl"
-	version="1.0.1"
-	provider-name="KNELSEN">
+	version="1.0.3"
+	provider-name="Wolfcreations">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
@@ -53,7 +68,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.wolfcreations" name="wolfcreations" version="0.0.1" provider-name="wolfcreations">
+<addon id="plugin.video.wolfcreations" name="wolfcreations" version="0.0.2" provider-name="wolfcreations">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.nanscrapers" version="0.5.5" />

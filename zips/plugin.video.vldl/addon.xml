@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.vldl"
+	name="vldl"
+	version="1.0.1"
+	provider-name="KNELSEN">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_gb">vldl</summary>
+    <description lang="en_gb">vldl</description>
+	<disclaimer lang="en_gb">vldl</disclaimer>
+    <platform>all</platform>
+    <source></source>
+    <website></website>
+	<language>en gb</language>
+    <license>GPL v2.0</license>
+	<forum></forum>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>

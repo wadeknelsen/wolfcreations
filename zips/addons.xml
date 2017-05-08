@@ -1,35 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.aftermathwizard" name="Aftermath Wizard" version="0.1.7" provider-name="Aftermath">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.service" library="startup.py" start="startup" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Aftermath Wizard</summary>
-    <description lang="en">Aftermath Wizard allows you to get access to the latest Aftermath Custom Builds.</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.program.dataghost" name="Dataghosts Wizard" version="1.0.0" provider-name="Ghostware">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.service" library="startup.py" start="startup" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Dataghosts Wizard</summary>
-    <description lang="en">Welcome to Dataghosts wizard! This was created to simply help all my users, one click installs, builds, fixes, gaming and more.</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="plugin.video.docsquiffy" name="Doc Squiffy" version="1.0.3" provider-name="docsquiffy">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
@@ -44,6 +14,35 @@
     <description lang="en_gb">KODI XBMC IPTV ADDONS and GUIDES.</description>
 	<disclaimer lang="en_gb">All Content Posted on this channel Is for educational purposes: Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment.</disclaimer>
     <platform>all</platform>
+	<language>en gb</language>
+    <license>GPL v2.0</license>
+	<forum></forum>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="plugin.video.vldl"
+	name="vldl"
+	version="1.0.1"
+	provider-name="KNELSEN">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_gb">vldl</summary>
+    <description lang="en_gb">vldl</description>
+	<disclaimer lang="en_gb">vldl</disclaimer>
+    <platform>all</platform>
+    <source></source>
+    <website></website>
 	<language>en gb</language>
     <license>GPL v2.0</license>
 	<forum></forum>

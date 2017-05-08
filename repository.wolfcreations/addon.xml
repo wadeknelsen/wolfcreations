@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.wolfcreations" name="wolfcreations" version="0.0.3" provider-name="wadeknelsen">
+<addon id="repository.wolfcreations" name="wolfcreations" version="0.0.4" provider-name="wadeknelsen">
 	<extension point="xbmc.addon.repository" name="wolfcreations">
 		<dir>
 			<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>

@@ -32,7 +32,7 @@
 
 <addon id="plugin.video.docsquiffy"
 	name="Doc Squiffy"
-	version="1.0.1"
+	version="1.0.2"
 	provider-name="docsquiffy">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
@@ -47,8 +47,6 @@
     <description lang="en_gb">KODI XBMC IPTV ADDONS and GUIDES.</description>
 	<disclaimer lang="en_gb">All Content Posted on this channel Is for educational purposes: Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment.</disclaimer>
     <platform>all</platform>
-    <source>http://Docsquiffy.com/repo</source>
-    <website>http://Docsquiffy.com</website>
 	<language>en gb</language>
     <license>GPL v2.0</license>
 	<forum></forum>

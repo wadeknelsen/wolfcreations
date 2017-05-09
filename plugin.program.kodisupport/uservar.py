@@ -7,19 +7,19 @@ ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
 ADDONTITLE     = 'Kodisupport Wizard'
 EXCLUDES       = [ADDON_ID]
 # Text File with build info in it.
-BUILDFILE      = 'https://github.com/wadeknelsen/wolfcreations/builds'
+BUILDFILE      = 'https://raw.githubusercontent.com/wadeknelsen/wolfcreations/master/wizard/buildssfile.txt'
 # How often you would list it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK    = 0
 # Text File with apk info in it.
-APKFILE        = 'http://'
+APKFILE        = 'https://raw.githubusercontent.com/wadeknelsen/wolfcreations/master/wizard/apksfile.txt'
 # Text File with Youtube Videos urls.  Leave as 'http://' to ignore
 YOUTUBETITLE   = ''
 YOUTUBEFILE    = 'http://'
 # Text File for addon installer.  Leave as 'http://' to ignore
-ADDONFILE      = 'http://'
+ADDONFILE      = 'https://raw.githubusercontent.com/wadeknelsen/wolfcreations/master/wizard/addonsinstallerfile.txt'
 # Text File for advanced settings.  Leave as 'http://' to ignore
-ADVANCEDFILE   = 'http://'
+ADVANCEDFILE   = 'https://raw.githubusercontent.com/wadeknelsen/wolfcreations/master/wizard/advancedsettingsfile.txt'
 
 # Dont need to edit just here for icons stored locally
 PATH           = xbmcaddon.Addon().getAddonInfo('path')

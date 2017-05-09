@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.kodisupport" name="Kodisupport Wizard" version="2017.05.09a" provider-name="wolfcreations">
+<addon id="plugin.program.kodisupport" name="Kodisupport Wizard" version="2017.05.09b" provider-name="wolfcreations">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>

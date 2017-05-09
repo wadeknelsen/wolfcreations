@@ -1,11 +1,3 @@
-name="Kodi Support Custom APKs"
-section="yes"
-url="https://www.dropbox.com/s/0oy39275mj54cf4/KodiForks.txt?dl=1"
-icon="https://www.dropbox.com/s/bii8ffg0yh74sj9/kodi.png?dl=1"
-fanart="https://www.dropbox.com/s/bii8ffg0yh74sj9/kodi.png?dl=1"
-adult="no"
-description="Custom Kodi APK Files"
-
 name="Quick Support - Install Both"
 section="yes"
 url="https://www.dropbox.com/s/o2jcwzyf63rvp3a/QS.txt?dl=1"

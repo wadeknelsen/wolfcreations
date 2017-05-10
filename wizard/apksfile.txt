@@ -6,7 +6,6 @@ fanart=""
 adult="no"
 description="Install both apk to allow remote assistance"
 
-
 name="Movie & TV Show Apps"
 section="yes"
 url="https://www.dropbox.com/s/rkuile6jw26wkqz/MovieAPK.txt?dl=1"
@@ -25,7 +24,7 @@ description="Important Android files for your convenience"
 
 name="Kodi & Spmc Forks"
 section="yes"
-url=""
+url="https://raw.githubusercontent.com/wadeknelsen/wolfcreations/master/wizard/apks/apks.txt"
 icon=""
 fanart=""
 adult="no"

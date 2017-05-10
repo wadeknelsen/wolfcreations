@@ -6,13 +6,6 @@ fanart="https://www.dropbox.com/s/qxgwctm8tprxsdc/qs.png?dl=1"
 adult="no"
 description="Install both apk to allow remote assistance"
 
-name="IPTV Apps For Android"
-section="yes"
-url="https://www.dropbox.com/s/x3ros0otyzsd54r/IPTVApps.txt?dl=1"
-icon="https://www.dropbox.com/s/i58765wmd0jmzek/Team%20eXpat.png?dl=1"
-fanart="https://www.dropbox.com/s/i58765wmd0jmzek/Team%20eXpat.png?dl=1"
-adult="no"
-description="Install both apk to allow remote assistance"
 
 name="Movie & TV Show Apps"
 section="yes"

@@ -24,7 +24,7 @@ description="Important Android files for your convenience"
 
 name="Kodi & Spmc Forks"
 section="yes"
-url="https://raw.githubusercontent.com/wadeknelsen/wolfcreations/master/wizard/apks/apks.txt"
+url="https://raw.githubusercontent.com/wadeknelsen/wolfcreations/master/wizard/apks/apks.txt?dl=1"
 icon=""
 fanart=""
 adult="no"

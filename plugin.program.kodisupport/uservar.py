@@ -34,21 +34,21 @@ ART            = os.path.join(PATH, 'resources', 'art')
 # Example:  ICONMAINT     = os.path.join(ART, 'mainticon.png')
 #           ICONSETTINGS  = 'http://aftermathwizard.net/repo/wizard/settings.png'
 # Leave as http:// for default icon
-ICONBUILDS     = 'http://'
-ICONMAINT      = 'http://'
-ICONAPK        = 'http://'
-ICONADDONS     = 'http://'
-ICONYOUTUBE    = 'http://'
-ICONSAVE       = 'http://'
-ICONTRAKT      = 'http://'
-ICONREAL       = 'http://'
-ICONLOGIN      = 'http://'
-ICONCONTACT    = 'http://'
-ICONSETTINGS   = 'http://'
+ICONBUILDS     = os.path.join(ART, 'iconbuilds.png')
+ICONMAINT      = os.path.join(ART, 'iconmaint.png')
+ICONAPK        = os.path.join(ART, 'iconapk.png')
+ICONADDONS     = os.path.join(ART, 'iconaddons.png')
+ICONYOUTUBE    = os.path.join(ART, 'iconyoutube.png')
+ICONSAVE       = os.path.join(ART, 'iconsave.png')
+ICONTRAKT      = os.path.join(ART, 'icontrakt.png')
+ICONREAL       = os.path.join(ART, 'iconreal.png')
+ICONLOGIN      = os.path.join(ART, 'iconlogin.png')
+ICONCONTACT    = os.path.join(ART, 'iconcontact.png')
+ICONSETTINGS   = os.path.join(ART, 'iconsettings.png')
 # Hide the ====== seperators 'Yes' or 'No'
 HIDESPACERS    = 'No'
 # Character used in seperator
-SPACER         = '='
+SPACER         = '*'
 
 # You can edit these however you want, just make sure that you have a %s in each of the
 # THEME's so it grabs the text from the menu item

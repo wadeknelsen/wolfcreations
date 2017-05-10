@@ -39,10 +39,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.ghostware"
-	name="Ghostware"
-	version="0.0.2"
-	provider-name="ghostware">
+<addon id="plugin.video.ghostware" name="Ghostware Support" version="1.0.4" provider-name="Wolfcreations">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
@@ -52,16 +49,10 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en_gb">Ghostware Support Youtube video Add-on</summary>
-    <description lang="en_gb">
-	CustomTV Boxes,Custom TV Box Firmware, Kodi Builds, Custom Roms, TV Boxes, Programming, CEH & Ϻore
-	Your box supplier may have stopped pushing updates but I have not. Great builds, fantastic roms & Ϻore.
-	Looking for custom firmware, kernels, websites, gaming setups and more. Contact us directly. </description>
-	<disclaimer lang="en_gb">All Content Posted on this channel Is for educational purposes:
-	Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment.</disclaimer>
+    <summary lang="en_gb">Ghostware Support</summary>
+    <description lang="en_gb">Ghostware Support</description>
+	<disclaimer lang="en_gb">All Content Posted on this channel Is for educational purposes: Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment.</disclaimer>
     <platform>all</platform>
-    <source>http://ghostware.org</source>
-    <website>http://ghostware.org</website>
 	<language>en gb</language>
     <license>GPL v2.0</license>
 	<forum></forum>

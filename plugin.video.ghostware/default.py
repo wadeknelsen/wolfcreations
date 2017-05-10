@@ -42,7 +42,5 @@ def main_list(params):
         thumbnail=icon,
         folder=True )
 
-    
-
 
 run()

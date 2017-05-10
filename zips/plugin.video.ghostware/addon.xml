@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.ghostware"
+	name="Ghostware"
+	version="1.0.1"
+	provider-name="ghostware">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_gb">Ghostware Support Youtube video Add-on</summary>
+    <description lang="en_gb">★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★
+Custom TV Boxes,Custom TV Box Firmware, Kodi Builds, Custom Roms, TV Boxes, Programming, CEH & Ϻ𝓞𝓡𝔼 
+🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠🛠
+Your box supplier may have stopped pushing updates but I have not. Great builds, fantastic roms & Ϻ𝓞𝓡𝔼. 
+⛑⛑⛑⛑⛑⛑⛑⛑⛑⛑⛑⛑⛑⛑⛑⛑⛑⛑⛑⛑⛑⛑⛑
+Looking for custom firmware, kernels, websites, gaming setups and more. Contact us directly. </description>
+	<disclaimer lang="en_gb">All Content Posted on this channel Is for educational purposes: Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment.</disclaimer>
+    <platform>all</platform>
+    <source>http://ghostware.org</source>
+    <website>http://ghostware.org</website>
+	<language>en gb</language>
+    <license>GPL v2.0</license>
+	<forum></forum>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>

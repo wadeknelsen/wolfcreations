@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.wolfcreations" name="Wolf Support" version="1.0.0" provider-name="Wolf Creations">
+<addon id="plugin.program.wolfcreations" name="Wolf Support" version="1.0.1" provider-name="Wolf Creations">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -114,7 +114,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.wolfcreations" name="wolfcreations" version="1.0.0" provider-name="wadeknelsen">
+<addon id="repository.wolfcreations" name="wolfcreations" version="1.0.1" provider-name="Wolf Creations">
 	<extension point="xbmc.addon.repository" name="wolfcreations">
 		<dir>
 			<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>

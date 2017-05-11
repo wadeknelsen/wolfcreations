@@ -4,7 +4,7 @@ import os, xbmc, xbmcaddon
 ### User Edit Variables #################################
 #########################################################
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
-ADDONTITLE     = 'KODI Support'
+ADDONTITLE     = 'Wolf Support'
 EXCLUDES       = [ADDON_ID]
 # Text File with build info in it.
 BUILDFILE      = 'https://raw.githubusercontent.com/wadeknelsen/wolfcreations/master/wizard/builds.txt'
@@ -90,11 +90,11 @@ WIZARDFILE     = 'https://raw.githubusercontent.com/wadeknelsen/wolfcreations/ma
 # Enable Auto Install 'Yes' or 'No'
 AUTOINSTALL    = 'Yes'
 # Addon ID for the repository
-REPOID         = 'repository.wolfcreation'
+REPOID         = 'repository.wolfcreations'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
 REPOADDONXML   = 'https://raw.githubusercontent.com/wadeknelsen/wolfcreations/master/zips/addon.xml'
 # Url to folder zip is located in
-REPOZIPURL     = 'https://raw.githubusercontent.com/wadeknelsen/wolfcreations/master/zips/'
+REPOZIPURL     = 'https://raw.githubusercontent.com/wadeknelsen/wolfcreations/master/zips/repository.wolfcreations'
 #########################################################
 
 #########################################################

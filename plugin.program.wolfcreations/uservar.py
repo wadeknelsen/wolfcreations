@@ -88,7 +88,7 @@ WIZARDFILE     = 'https://raw.githubusercontent.com/wadeknelsen/wolfcreations/ma
 ### AUTO INSTALL ########################################
 ########## REPO IF NOT INSTALLED ########################
 # Enable Auto Install 'Yes' or 'No'
-AUTOINSTALL    = 'Yes'
+AUTOINSTALL    = 'no'
 # Addon ID for the repository
 REPOID         = 'repository.wolfcreations'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)

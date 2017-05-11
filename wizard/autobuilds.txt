@@ -1,4 +1,4 @@
-id="plugin.program.aftermathwizard"
+id="plugin.program.wolfcreations"
 version="0.0.2b"
 zip="http://aftermathwizard.net/repo/aftermathwizard.zip"
 

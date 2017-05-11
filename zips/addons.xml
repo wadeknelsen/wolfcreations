@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.wolfcreations" name="KODI Support" version="1.0.0" provider-name="Wolf Creations">
+<addon id="plugin.program.wolfcreations" name="Wolf Support" version="1.0.0" provider-name="Wolf Creations">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -9,8 +9,8 @@
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">KODI Support</summary>
-    <description lang="en">Kodi Support Wizard allows you to get access to the latest Wolf Creations Custom Builds.</description>
+    <summary lang="en">Wolf Support</summary>
+    <description lang="en">Wolf Support Wizard allows you to get access to the latest Wolf Creations Custom Builds.</description>
     <platform>all</platform>
   </extension>
 </addon>

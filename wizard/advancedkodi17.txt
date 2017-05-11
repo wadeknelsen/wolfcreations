@@ -1,0 +1,6 @@
+name="Kodi 17 Advanced Settings Test 1"
+section="no"
+url="http://aftermathwizard.net/repo/wizard/advancedsettings2.xml"
+icon="http://aftermathwizard.net/repo/wizard/icon.png" 
+fanart="http://aftermathwizard.net/repo/wizard/fanart.jpg"
+description="Example of advancedsettings.xml"

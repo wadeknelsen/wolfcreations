@@ -1,3 +1,19 @@
+name="UK TV"
+section="yes"
+url="http://aftermathwizard.net/testtext/apks2.txt"
+icon="http://kobracustombuilds.com/apks/img/uktvnow6.png" 
+fanart="http://kobracustombuilds.com/apks/fanart/fanart3.jpg"
+adult="No"
+description="Uk TV Now"
+
+name="Solid Streamz v1.0.0"
+section="no"
+url="http://bit.do/solid_streamz-apk"
+icon="http://kobracustombuilds.com/apks/img/solidstreamz.jpg" 
+fanart="http://kobracustombuilds.com/apks/fanart/fanart3.jpg"
+adult="yes"
+description="SolidStreamz gives access to enjoy TV and Radio"
+
 name="Quick Support - Install Both"
 section="yes"
 url="https://www.dropbox.com/s/o2jcwzyf63rvp3a/QS.txt?dl=1"
@@ -32,12 +48,8 @@ description="Important Android files for your convenience"
 
 name="Kodi & SPMC Forks"
 section="yes"
-url="https://raw.githubusercontent.com/wadeknelsen/wolfcreations/master/wizard/apks/apks.txt?dl=1"
+url="https://raw.githubusercontent.com/wadeknelsen/wolfcreations/master/wizard/forks.txt?dl=1"
 icon="https://www.dropbox.com/s/bii8ffg0yh74sj9/kodi.png?dl=1"
 fanart="https://www.dropbox.com/s/bii8ffg0yh74sj9/kodi.png?dl=1"
 adult="no"
 description="Movie & TV Show Android Applications"
-
-
-
-

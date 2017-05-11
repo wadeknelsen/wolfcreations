@@ -9,17 +9,6 @@ fanart="https://raw.githubusercontent.com/kisakuldlanor/thedudeabides/master/zip
 adult="no"
 description="Kratos Addon."
 
-name="Anonymous SS"
-plugin="plugin.video.anonymous"
-url="https://raw.githubusercontent.com/kisakuldlanor/thedudeabides/master/zips/plugin.video.anonymous/"
-repository="repository.anonymousgroup"
-repositoryxml="https://raw.githubusercontent.com/kisakuldlanor/thedudeabides/master/addons.xml"
-repositoryurl="http://kisakul.com/anonymous/repository.anonymousgroup/"
-icon="https://raw.githubusercontent.com/kisakuldlanor/thedudeabides/master/zips/plugin.video.anonymous/icon.png"
-fanart="https://raw.githubusercontent.com/kisakuldlanor/thedudeabides/master/zips/plugin.video.anonymous/fanart.jpg"
-adult="no"
-description="Anonymous SS Addon."
-
 name="Bob"
 plugin="plugin.video.bob"
 url="https://raw.githubusercontent.com/noobsandnerds/noobsandnerds/master/zips/plugin.video.bob/"
@@ -96,3 +85,15 @@ icon="https://offshoregit.com/unofficialsportsdevil/repository.unofficialsportsd
 fanart="https://offshoregit.com/unofficialsportsdevil/repository.unofficialsportsdevil/fanart.jpg"
 adult="no"
 description="SportsDevil Addon."
+
+
+name="Adult Addons"
+plugin="section"
+url="http://aftermathwizard.net/repo/wizard/addons2.txt"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://raw.githubusercontent.com/noobsandnerds/noobsandnerds/master/plugin.video.bob/icon.png"
+fanart="https://raw.githubusercontent.com/noobsandnerds/noobsandnerds/master/plugin.video.bob/fanart.jpg"
+adult="yes"
+description="Adult Addons Section."

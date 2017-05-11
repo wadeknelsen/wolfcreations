@@ -1,0 +1,64 @@
+Welcome to the Kodi Support Group.
+
+General rules:
+1. No paid iptv
+2. No spam
+3. Use the search feature here and check to see if someone else has posted your problem/issue already
+4. If you as a YouTuber want to post your video to this group add a link to the group.
+5. No which build is best posts. There may come a time when we discuss builds but let's not bury the group in these types of posts.
+6. DO NOT ARGUE WITH A MODERATOR/ADMIN
+7. Be courteous to fellow members.
+
+
+
+How To Install Kodi Helpful Links
+
+https://www.tvaddons.ag/kodi-addons-dummies/
+
+
+
+Kodi Downloads
+
+Kodi 17.1 Krypton for Windows -http://mirrors.kodi.tv/releases/win32/kodi-17.1-Krypton.exe
+
+Kodi 17.1 Krypton for Mac - http://mirrors.kodi.tv/releases/osx/x86_64/kodi-17.1-Krypton-x86_64.dmg
+
+Kodi 17.1 Krypton for Android (Google Play) - https://play.google.com/store/apps/details?id=org.xbmc.kodi
+
+Kodi 17.1 Krypton for Android (Sideload) - http://mirrors.kodi.tv/releases/android/arm/kodi-17.1-Krypton-armeabi-v7a.apk
+
+Kodi 16.1 Jarvis for Android (Sideload)  - http://mirrors.kodi.tv/releases/android/arm/old/kodi-16.1-Jarvis-armeabi-v7a.apk
+
+Kodi 17.1 Krypton for Amazon Fire TV - https://www.tvaddons.ag/firetv-kodi-downloader/
+
+Kodi 17.1 Krypton for NVIDIA Shield TV - https://www.tvaddons.ag/nvidia-shieldtv-kodi/
+
+Kodi 17.1 for Apple TV 4 - https://www.tvaddons.ag/sideload-kodi-atv4/
+
+Kodi 17.1 for iPad or iPhone - https://www.tvaddons.ag/sideload-kodi-ios/
+
+Kodi 17.1 for iPad or iPhone (Jailbroken) - https://www.tvaddons.ag/kodi-ios-jailbroken/
+
+Firestick Users		-	http://aftv.hackmykodi.com/
+
+
+If you need a version for android 4.4.2.or 4.2.2 you can try one of the following...
+
+MyGica v17.0  		-  	http://www.mediafire.com/file/66kqzbc954fikfw/mygicaMediaCenter2017413_sign.apk
+
+Wookie Fork	v17.0	-	http://wookiespmc.com/apks/Wookie.17.0%20For%204.4.2.apk
+
+FTMC Fork v17.0		-	http://freak-tab.de/luis/Ftmc/FTMC-16.1-armeabi-v7a-Build-26.apk
+
+
+
+
+Links to The Top Builds/Wizards
+
+TvAddons 	- 		http://fusion.tvaddons.ag 
+
+The Beast 	- 	http:thebeast2.com/repo (USA)  or http:thebeast1.com/repo (UK)
+
+Ares Wizard - 	http://repo.ares-project.com/magic
+
+Team Vegas 	- 	http://leesstuff.co.uk/repo

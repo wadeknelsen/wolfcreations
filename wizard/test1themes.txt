@@ -1,0 +1,13 @@
+name="Default theme"
+url="http://aftermathwizard.net/repo/builds/theme1.zip"
+icon="http://aftermathwizard.net/img/test1.png"
+fanart="http://aftermathwizard.net/img/test1.png"
+adult="yes"
+description="Test"
+
+name="Red theme"
+url="http://aftermathwizard.net/repo/builds/theme2.zip"
+icon="http://aftermathwizard.net/img/test2.png"
+fanart="http://aftermathwizard.net/img/test2.png"
+adult="no"
+description="Test"

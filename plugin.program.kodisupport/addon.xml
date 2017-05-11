@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.kodisupport" name="Kodisupport Wizard" version="2017.05.11" provider-name="wolfcreations">
+<addon id="plugin.program.wolfcreations" name="KODI Support" version="1.0.0" provider-name="Wolf Creations">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -8,8 +8,8 @@
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Kodisupport Wizard</summary>
-    <description lang="en">Kodisupport Wizard allows you to get access to the latest Wolfcreations Custom Builds, Appks and addons.</description>
+    <summary lang="en">KODI Support</summary>
+    <description lang="en">Kodi Support Wizard allows you to get access to the latest Wolf Creations Custom Builds.</description>
     <platform>all</platform>
   </extension>
 </addon>

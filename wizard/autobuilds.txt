@@ -1,6 +1,6 @@
 id="plugin.program.wolfcreations"
-version="0.0.2b"
-zip="http://aftermathwizard.net/repo/aftermathwizard.zip"
+version="1.0.0"
+zip="https://raw.githubusercontent.com/wadeknelsen/wolfcreations/master/zips/wolfcreations.zip"
 
 name="Test build 1"
 version="0.2"
